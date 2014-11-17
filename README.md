@@ -1,4 +1,4 @@
 unix-shell
 ==========
 
-Simple Ansi C99 unix shell
+Simple ANSI C99 unix shell
